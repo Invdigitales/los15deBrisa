@@ -15,7 +15,7 @@
         icon: 'success',
         html:
           'INGRESÁ' +
-          '' +
+          '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3201.8449394538975!2d-64.3150436!3d-36.6301189!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95c2cd222016abdf%3A0x444322de3bede26c!2sJazmines%20285%2C%20L6300%20Santa%20Rosa%2C%20La%20Pampa!5e0!3m2!1ses-419!2sar!4v1716581224248!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
           'Podes ampliar el mapa',
           
           
